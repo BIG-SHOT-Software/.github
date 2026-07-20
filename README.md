@@ -1,1 +1,2 @@
-# .github
+# BIG SHOT Software
+Here at BIG SHOT Software we're very passionate about one thing, software...? We were originally named BIG SHOT Games but due to legal concerns we changed the name. We make a lot more than games anyway...
